@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_with_your_valid_number">LOGIN WITH YOUR VALID NUMBER</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="country_codes">
+        <item>+1</item>
+        <item>+94</item>
+        <item>+61</item>
+    </string-array>
+</resources>
